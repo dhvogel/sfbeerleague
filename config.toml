@@ -1,0 +1,8 @@
+baseurl = "http://yourdomain.com"
+languageCode = "en-us"
+title = "SF Beer League"
+canonifyUrls = "true"
+
+[params]
+    description = "Daggers Only"
+    custom_css = ["css/local.css"]
